@@ -1,4 +1,4 @@
-# Cyber Security GRC Case Study
+# Cyber Security GRC Case Study: Risk Assessment, IAM Review & Audit – CareConnect Ltd
 
 ## Overview
 
