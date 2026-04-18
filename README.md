@@ -125,7 +125,7 @@ This case study demonstrates how core GRC principles can be applied to identify 
 
 ## Files Included
 
-- `GRC_Case_Study.pdf` – Full report
+- `Cyber Security GRC Case Study.pdf` – Full report
 
 ---
 
